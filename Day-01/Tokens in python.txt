@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Tokens in python
 Tokens are smallest units of a python program
 python has five types of tokens:
@@ -35,3 +36,42 @@ Variable:
 4.Python is case sensitive
 
 
+=======
+Tokens in python
+Tokens are smallest units of a python program
+python has five types of tokens:
+1 keywords-pre-define functions(if,else,for,def)
+2 identifiers-names of variables,functions,and classes
+3 literals-constant values (10,"hello",3.14)
+4 operators-(+,-,*,/)
+5 punctuators-(),{},[],:,
+n=2
+if n%==2:
+   print("even")
+else:
+print("odd")
+keywords:
+if 
+else
+identifiers:
+n
+literals:
+2
+even
+odd
+operators:
+=
+==
+%
+punctuators:
+()
+:
+print:identifier(built in function name)
+Variable: 
+1.A Variable is a name used to store the data.
+2.Start with a letter or underscore
+3. cannot start with a number
+4.Python is case sensitive
+
+
+>>>>>>> d288f847551d151c233c234d59ecae175ab21a86
