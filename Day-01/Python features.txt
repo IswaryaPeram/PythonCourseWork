@@ -1,0 +1,13 @@
+Python features
+Simple and Readable Syntax
+Interpreted language: code executed line by line
+Dynamical Typed programming: we do not need to explicitly declare variable data types
+open source: python is free to use and modify
+platform Independent: same code works on any where
+object oriented 
+class : blue print(attributes)
+object : instance of a class
+inheritance:old version to new
+polymorphism: The same method behaves differently for different objects
+Encapsulation: protect the data
+Abstraction: heading the data

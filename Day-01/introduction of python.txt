@@ -1,0 +1,12 @@
+1 what is programming?
+  a set of instructions written to perform a specific task is called a program
+2 features of python
+  Easy syntax
+  High level language
+  interpreted language
+  open source
+  Dynamically typed
+3 why python?
+ python is one of the most popular programming languages because it requires fewer lines of         code and is to learn.
+ example:
+ print("Hello world")
