@@ -1,0 +1,33 @@
+condition ststements
+ 1.simpleif:An if statement is used to execute a block of code only when a given condition is true.
+ 2.if else:if-else is used when we have two possible choices.
+ 3.elif ladder:It is used when we need to check multiple conditions.
+ 4.nested if:if statement inside another if statement.
+
+if con:
+   #statement
+
+
+if condition:
+  #statement
+else:
+  #statement 
+
+
+if condition:
+   #statement
+elif:
+   #statement
+else:
+    #statemnts
+
+
+if condition:
+   if condition:
+       #statement
+   else:
+       #statement
+else:
+   #statement
+    
+ 

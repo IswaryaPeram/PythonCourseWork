@@ -1,0 +1,55 @@
+String
+String is an immutable sequence of characters that can be enclosed in either single (')or double(" ")or triple(''' ''')
+example:
+s='python'
+s="python"
+s='''python'''
+Operations on strings:
+concatenation(+): joining two or more strings.
+Repetition(*): Repeating a string multiple times.
+indexing: accessing individual elements of a sequence using their position.
+slicing: Extracting a part of the string.
+membership(in, not in):checking if a substring exists within a string.
+Built in strings Functions:
+len()
+max()/min()
+sorted()
+chr()/Ord()
+case conversion:
+upper(),lower(),capitalize(),title(),swap case(),case fold()
+Alignments:
+center:
+a='python programming'
+a. center(50,'-')
+output:
+-------------python programming----------------
+a.rjust(50,'-')
+output:
+------------python programming
+a.ljust(40,'------------')
+output:
+python programming--------------
+'123'.zfill(4)
+'0123'
+search:
+find:
+a='python programming'
+a.find('n')
+output:
+5
+a.lfind('p')
+output:
+11
+index:
+a.index('p')
+0
+a.rindex('n')
+5
+a.lindex('m')
+4
+a.count('m')
+2
+a.replace('m','i')
+
+4
+
